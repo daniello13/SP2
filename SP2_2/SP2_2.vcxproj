@@ -117,6 +117,9 @@
   <ItemGroup>
     <ClCompile Include="SP2_2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SP2_2.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -1,3 +1,4 @@
 ﻿  SP2_2.cpp
-e:\learning\sp\sp2\sp2_2\sp2_2.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+e:\learning\sp\sp2\sp2_2\sp2_2.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+e:\learning\sp\sp2\sp2_2\sp2_2.cpp(43): warning C4307: +: переполнение целой константы
   SP2_2.vcxproj -> E:\Learning\SP\SP2\Debug\SP2_2.exe
